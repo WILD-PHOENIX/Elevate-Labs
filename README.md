@@ -6,7 +6,9 @@ Contents:
 
   Task 1 Data Cleaning & Preprocessing  
   Task 2 Exploratory Data Analysis (EDA)
+  
   Task 3 Linear Regression
+  
   Task 4 Classification with Logistic Regression
 
   
