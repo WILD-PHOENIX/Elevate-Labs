@@ -164,31 +164,15 @@ This project is perfect for:
 4. **Push** to the branch (`git push origin feature/AmazingFeature`)
 5. **Open** a Pull Request
 
- 💡 Contribution Ideas
+ Contribution Ideas
 - Add cross-validation analysis
 - Implement other algorithms (Random Forest, SVM)
 - Create interactive visualizations with Plotly
 - Add feature selection techniques
 - Implement ensemble methods
 
- 🙏 Acknowledgments
+ Acknowledgments
 - **UCI Machine Learning Repository** for the dataset
 - **K.P. Bennett and O.L. Mangasarian** for the original research
 - **Scikit-learn community** for excellent documentation
 - **Jupyter Project** for the interactive computing environment
-
- 📞 Contact
-
-**Your Name** - your.email@example.com
-
-**Project Link**: https://github.com/your-username/breast-cancer-classifier
-
-
- 🚀 Quick Start Commands
- Clone and setup
-git clone https://github.com/your-username/breast-cancer-classifier.git
-cd breast-cancer-classifier
-pip install -r requirements.txt
-
- Run analysis
-jupyter notebook breast_cancer_classifier.ipynb
