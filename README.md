@@ -13,6 +13,8 @@ Contents:
 
   Task 5 Decision Trees and Random Forest
 
+  Task 6 K-Nearest Neighbors (KNN) Classification
+
   
 Each folder has the notebook and a README
 
@@ -20,3 +22,4 @@ Dataset [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-datase
 Dataset [House Pricing Dataset](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
 Dataset [Breast Cancer Wisconsin Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 Dataset [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+Dataset [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris)
