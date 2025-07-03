@@ -15,6 +15,8 @@ Contents:
 
   Task 6 K-Nearest Neighbors (KNN) Classification
 
+  Task 7 Support Vector Machines (SVM)
+
   
 Each folder has the notebook and a README
 
@@ -23,3 +25,4 @@ Dataset [House Pricing Dataset](https://www.kaggle.com/datasets/harishkumardatal
 Dataset [Breast Cancer Wisconsin Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 Dataset [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 Dataset [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris)
+Dataset [Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
