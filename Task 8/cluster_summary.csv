@@ -1,0 +1,6 @@
+,type,avg_age,avg_income,avg_spending,size
+0,"Low Income, Low Spending",46.25,26.75,18.35,20
+1,"Moderate Income, Moderate Spending",25.185185185185187,41.092592592592595,62.24074074074074,54
+2,"High Income, High Spending",32.875,86.1,81.525,40
+3,"High Income, Low Spending",39.87179487179487,86.1025641025641,19.358974358974358,39
+4,"Moderate Income, Moderate Spending",55.638297872340424,54.38297872340426,48.851063829787236,47
